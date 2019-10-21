@@ -25,8 +25,8 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 
-const {color, k_job, k_partner} = k_muppet
-const {song_2, song_4} = k_muppet.k_album.the muppet_movie
+const {color, k_job, k_partner} = k_muppet;
+//const {song_2, song_4} = k_muppet.k_album.the muppet_movie;
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
